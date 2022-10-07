@@ -1,0 +1,5 @@
+print("hello", end="")
+print("i" ,end="")
+print("am",end="")
+print("vaibhav",end="")
+print("shukla",end="")
