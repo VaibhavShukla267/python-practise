@@ -28,7 +28,7 @@ def checkWin(xState,zState):
                 print("O win the match")
                 return 0
     return -1   
-if __name__--"__main__" :
+if __name__=="__main__" :
     xState = [0,0,0,0,0,0,0,0,0]
     zState = [0,0,0,0,0,0,0,0,0]
     turn=1
